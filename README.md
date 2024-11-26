@@ -1,4 +1,4 @@
-👋 Hi, I’m @Chinmayee4
+👋 Hi, I’m @Chinmayeebarik
 
 👀 I’m interested in: Data Analysis 🌐 Exploring insights to drive decisions 📊
 
