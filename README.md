@@ -2,7 +2,7 @@
 
 👀 I’m interested in: Data Analysis 🌐 Exploring insights to drive decisions 📊
 
-🌱 I’m currently learning: SQL, Power BI, Python, and Advanced Excel to enhance my data analysis skills.
+🌱 I’m skilled in: SQL, Power BI, Python, and Advanced Excel .
 
 💞️ I’m looking to collaborate on: Data-driven projects that involve visualization, analytics, and generating actionable insights.
 
